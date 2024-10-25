@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://sahowaje.github.io/sitemap/sitemap_index.sahowaje
+Sitemap: https://sahowaje.github.io/bkH/sitemap_index.sahowaje
+Sitemap: https://sahowaje.github.io/hNy/sitemap_index.sahowaje
+Sitemap: https://sahowaje.github.io/VBO/sitemap_index.sahowaje
+Sitemap: https://sahowaje.github.io/NyW/sitemap_index.sahowaje
+Sitemap: https://sahowaje.github.io/owS/sitemap_index.sahowaje
+Sitemap: https://sahowaje.github.io/Scb/sitemap_index.sahowaje
+Sitemap: https://sahowaje.github.io/Sis/sitemap_index.sahowaje
+Sitemap: https://sahowaje.github.io/FJM/sitemap_index.sahowaje
+Sitemap: https://sahowaje.github.io/REJ/sitemap_index.sahowaje
+Sitemap: https://sahowaje.github.io/OpU/sitemap_index.sahowaje
+Sitemap: https://sahowaje.github.io/RBI/sitemap_index.sahowaje
+Sitemap: https://sahowaje.github.io/ZYd/sitemap_index.sahowaje
+Sitemap: https://sahowaje.github.io/kST/sitemap_index.sahowaje
+Sitemap: https://sahowaje.github.io/QTe/sitemap_index.sahowaje
+Sitemap: https://sahowaje.github.io/jYt/sitemap_index.sahowaje
+Sitemap: https://sahowaje.github.io/QTs/sitemap_index.sahowaje
+Sitemap: https://sahowaje.github.io/xhH/sitemap_index.sahowaje
+Sitemap: https://sahowaje.github.io/Pcu/sitemap_index.sahowaje
+Sitemap: https://sahowaje.github.io/rNh/sitemap_index.sahowaje
+Sitemap: https://sahowaje.github.io/kNg/sitemap_index.sahowaje
